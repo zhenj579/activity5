@@ -2,6 +2,4 @@
 
 example of university names:
 
-middle
-<br/>
 hunter
