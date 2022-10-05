@@ -3,4 +3,5 @@
 example of university names:
 
 middle
+\n
 hunter
